@@ -4,6 +4,7 @@ Paso 1: Al cargar el archivo Asegúrate de modificar la ruta (data) para que coi
 
 Por ejemplo, en el script donde se realiza el análisis, actualiza la variable data de la siguiente manera: data = pd.read_csv('D:\\UNAD_ANDRES\\Mall_Customers.csv')
 
+
 Análisis Exploratorio y Visualización de Datos
 
 1. Distribución de la Edad, Ingreso Anual y Puntaje de Gasto: Al principio, se crearon histogramas para ver la distribución de tres variables clave:
