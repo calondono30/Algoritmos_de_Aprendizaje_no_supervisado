@@ -1,4 +1,4 @@
--Instrucciones para usar el modelo "Regresion_Lineal.ipynb"
+-Instrucciones para usar el modelo "Regresion_Logistica.ipynb"
 
 Paso 1: Al cargar el archivo Asegúrate de modificar la ruta (data) para que coincida con la ubicación correcta en tu sistema antes de ejecutar el análisis.
 
